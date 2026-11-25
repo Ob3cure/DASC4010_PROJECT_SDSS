@@ -1,10 +1,5 @@
 # Photometric Classification of Celestial Objects & High-Redshift Quasars (SDSS17)
 
-[![Python](https://shields.io)](https://python.org)
-[![PyTorch](https://shields.io)](https://pytorch.org)
-[![Scikit-Learn](https://shields.io)](https://scikit-learn.org)
-[![Dataset](https://shields.io)](https://kaggle.com)
-
 ## Overview
 
 In modern observational astronomy, imaging photometry across broadband filters (`u, g, r, i, z`) is relatively inexpensive to collect across wide sky surveys, whereas measuring **spectroscopic redshift** requires resource-intensive fiber-optic follow-up. 
