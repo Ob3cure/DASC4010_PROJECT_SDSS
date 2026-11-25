@@ -29,7 +29,7 @@ This project investigates the intrinsic structure, dimensionality, and predictiv
 
 | Experiment 1: Decision Tree Splits | Experiment 3: ROC & PR Curves |
 | :---: | :---: |
-| ![Decision Tree](assets/exp1_decision_tree.png) | ![ROC PR Curves]() |
+| ![Decision Tree](assets/exp1_decision_tree.png) | ![ROC PR Curves](assets/exp3_roc_pr.png) |
 | *13/15 splits utilize adjacent color differences* | *ROC-AUC = 0.9672, PR-AUC = 0.8912* |
 
 | Experiment 3: Confusion Matrix | Experiment 3: High-\(z\) (\(5 < z < 6\)) PCA Error Analysis |
