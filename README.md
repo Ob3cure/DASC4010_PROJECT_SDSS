@@ -99,4 +99,4 @@ scaler.scale_ = checkpoint["scaler_scale"]
 
 ---
 
-## References Fukugita, M., Ichikawa, T., Gunn, J. E., Doi, M., Shimasaku, K., & Schneider, D. P. 1996, AJ, 111, 1748   Lenz, D. D., Newberg, H. J., Rosner, R., Richards, G. T., & Stoughton, C. 1998, ApJS, 119, 121   Richards, G. T., Fan, X., Newberg, H. J., et al. 2002, AJ, 123, 2945   Yang, J., Fan, X., Wu, X.-B., et al. 2017, AJ, 153, 184  
+References Fukugita, M., Ichikawa, T., Gunn, J. E., Doi, M., Shimasaku, K., & Schneider, D. P. 1996, AJ, 111, 1748   Lenz, D. D., Newberg, H. J., Rosner, R., Richards, G. T., & Stoughton, C. 1998, ApJS, 119, 121   Richards, G. T., Fan, X., Newberg, H. J., et al. 2002, AJ, 123, 2945   Yang, J., Fan, X., Wu, X.-B., et al. 2017, AJ, 153, 184  
